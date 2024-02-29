@@ -29,7 +29,6 @@ In this tutorial, you'll learn how to create a visually appealing and functional
   - Platform-specific features and configurations for web development.
 
 - **Third-Party Packages:**
-  - [Specify any third-party packages used, e.g., carousel_slider, http, etc.]
 
 ## How to Run
 
